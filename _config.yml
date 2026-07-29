@@ -3,8 +3,8 @@ tagline: Simple organization ideas for real homes
 description: >-
   Storage solutions, small-space tips, and products that actually work —
   simple organization ideas for real homes.
-url: "" # filled in once a custom domain or the github.io URL is confirmed live
-baseurl: ""
+url: "https://thesortedhome.github.io" # confirmed live 2026-07-28, filled in 2026-07-29 (was blank, broke canonical/og:url/sitemap)
+baseurl: "/thesortedhome-blog"
 
 theme: minima
 minima:
