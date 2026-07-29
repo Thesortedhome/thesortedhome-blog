@@ -1,53 +1,232 @@
 ---
 ---
 
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@400;500;600&display=swap");
 @import "minima";
 
-// The Sorted Home brand palette (from 40-Businesses/Pinterest-Affiliate-Marketing/Business.md)
-$tsh-sage: #9CAF88;
-$tsh-cream: #FAF7F0;
-$tsh-terracotta: #C1694F;
-$tsh-charcoal: #3A3A3A;
+// ---------------------------------------------------------------------------
+// The Sorted Home — brand palette (from 40-Businesses/Pinterest-Affiliate-Marketing/Business.md)
+// ---------------------------------------------------------------------------
+$tsh-sage: #93a97e;
+$tsh-sage-dark: #74895f;
+$tsh-sage-light: #e4ead9;
+$tsh-cream: #faf7f0;
+$tsh-terracotta: #c1694f;
+$tsh-terracotta-dark: #a5543d;
+$tsh-charcoal: #33322e;
+$tsh-charcoal-soft: #55534c;
+
+$font-serif: "Playfair Display", Georgia, serif;
+$font-sans: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+// ---------------------------------------------------------------------------
+// Base
+// ---------------------------------------------------------------------------
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   background-color: $tsh-cream;
-  color: $tsh-charcoal;
+  color: $tsh-charcoal-soft;
+  font-family: $font-sans;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
 }
 
+.wrapper {
+  max-width: 780px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-serif;
+  color: $tsh-charcoal;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+}
+
+a {
+  color: $tsh-terracotta;
+  text-decoration: none;
+  border-bottom: 1px solid rgba($tsh-terracotta, 0.35);
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+a:hover {
+  color: $tsh-terracotta-dark;
+  border-bottom-color: $tsh-terracotta-dark;
+}
+
+// ---------------------------------------------------------------------------
+// Header
+// ---------------------------------------------------------------------------
 .site-header {
-  background-color: $tsh-sage;
+  background: linear-gradient(135deg, $tsh-sage 0%, $tsh-sage-dark 100%);
   border-top: none;
   border-bottom: none;
+  padding: 6px 0;
 }
 
 .site-title,
 .site-title:visited {
   color: $tsh-cream !important;
+  font-family: $font-serif;
   font-weight: 700;
+  font-size: 26px;
+  letter-spacing: -0.01em;
+  border-bottom: none;
+}
+
+.site-title:hover {
+  opacity: 0.9;
 }
 
 .site-nav .page-link {
   color: $tsh-cream;
+  font-family: $font-sans;
+  font-weight: 500;
+  font-size: 15px;
+  border-bottom: none;
+  opacity: 0.92;
 }
 
-a {
+.site-nav .page-link:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav .trigger {
+    background: $tsh-sage-dark;
+    border-color: rgba($tsh-cream, 0.25);
+  }
+  .site-nav .page-link {
+    color: $tsh-cream;
+  }
+  .site-nav .menu-icon > svg path {
+    fill: $tsh-cream;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Home page / post list
+// ---------------------------------------------------------------------------
+.home {
+  h1.page-heading {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: $tsh-sage-dark;
+    font-family: $font-sans;
+    font-weight: 600;
+    margin-bottom: 28px;
+  }
+}
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+
+  > li {
+    padding: 28px 0;
+    border-bottom: 1px solid rgba($tsh-charcoal, 0.1);
+
+    &:first-child {
+      padding-top: 0;
+    }
+  }
+}
+
+.post-meta {
+  font-family: $font-sans;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: $tsh-sage-dark;
+  font-weight: 600;
+}
+
+.post-list > li h2,
+.post-link {
+  font-size: 28px;
+  color: $tsh-charcoal;
+  border-bottom: none;
+  display: inline-block;
+  margin-top: 6px;
+}
+
+.post-link:hover {
   color: $tsh-terracotta;
 }
 
-.post-title,
-.footer-heading,
-h1, h2, h3, h4 {
-  color: $tsh-charcoal;
+// ---------------------------------------------------------------------------
+// Post page
+// ---------------------------------------------------------------------------
+.post-header {
+  margin-bottom: 32px;
 }
 
-.site-footer {
-  background-color: $tsh-sage;
+.post-title {
+  font-size: 40px;
+  line-height: 1.15;
+}
+
+.post-content {
+  font-size: 18px;
+
+  h2 {
+    font-size: 26px;
+    margin-top: 2em;
+    padding-top: 0.4em;
+    border-top: 1px solid rgba($tsh-charcoal, 0.1);
+  }
+
+  a {
+    font-weight: 600;
+  }
 }
 
 .disclosure {
-  background: #E5EADD;
+  background: $tsh-sage-light;
   border-left: 4px solid $tsh-terracotta;
-  padding: 0.75em 1em;
-  font-size: 0.9em;
-  margin: 1.5em 0;
+  border-radius: 4px;
+  padding: 0.85em 1.1em;
+  font-size: 0.88em;
+  font-family: $font-sans;
+  color: $tsh-charcoal-soft;
+  margin: 0 0 2em 0;
+
+  a {
+    font-weight: 600;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Footer
+// ---------------------------------------------------------------------------
+.site-footer {
+  background: linear-gradient(135deg, $tsh-sage-dark 0%, $tsh-sage 100%);
+  border-top: none;
+  padding: 40px 0;
+}
+
+.footer-heading {
+  color: $tsh-cream;
+  font-family: $font-serif;
+}
+
+.site-footer a {
+  color: $tsh-cream;
+  border-bottom-color: rgba($tsh-cream, 0.4);
+}
+
+.site-footer .contact-list,
+.site-footer .social-media-list,
+.site-footer p {
+  color: rgba($tsh-cream, 0.85);
+}
+
+.site-footer svg {
+  fill: $tsh-cream;
 }
