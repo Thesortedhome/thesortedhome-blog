@@ -1,0 +1,53 @@
+---
+---
+
+@import "minima";
+
+// The Sorted Home brand palette (from 40-Businesses/Pinterest-Affiliate-Marketing/Business.md)
+$tsh-sage: #9CAF88;
+$tsh-cream: #FAF7F0;
+$tsh-terracotta: #C1694F;
+$tsh-charcoal: #3A3A3A;
+
+body {
+  background-color: $tsh-cream;
+  color: $tsh-charcoal;
+}
+
+.site-header {
+  background-color: $tsh-sage;
+  border-top: none;
+  border-bottom: none;
+}
+
+.site-title,
+.site-title:visited {
+  color: $tsh-cream !important;
+  font-weight: 700;
+}
+
+.site-nav .page-link {
+  color: $tsh-cream;
+}
+
+a {
+  color: $tsh-terracotta;
+}
+
+.post-title,
+.footer-heading,
+h1, h2, h3, h4 {
+  color: $tsh-charcoal;
+}
+
+.site-footer {
+  background-color: $tsh-sage;
+}
+
+.disclosure {
+  background: #E5EADD;
+  border-left: 4px solid $tsh-terracotta;
+  padding: 0.75em 1em;
+  font-size: 0.9em;
+  margin: 1.5em 0;
+}

@@ -8,7 +8,7 @@ baseurl: ""
 
 theme: minima
 minima:
-  skin: custom
+  skin: classic
   social_links:
     pinterest: TheSortedHomeINC
 
