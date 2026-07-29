@@ -1,5 +1,5 @@
 ---
-title: "4 Small Space Organization Products That Actually Work"
+title: "5 Small Space Organization Products That Actually Work"
 date: 2026-07-29
 categories: [Small Space]
 excerpt: "Real products for tiny apartments and cramped rooms — the stuff that adds storage without eating your floor space."
@@ -9,7 +9,7 @@ excerpt: "Real products for tiny apartments and cramped rooms — the stuff that
 As an Amazon Associate, I earn from qualifying purchases. See our full [disclosure]({{ "/disclosure/" | relative_url }}).
 </div>
 
-Small space organization isn't about owning less — it's about using the space you actually have (walls, under-bed gaps, corners) instead of just the floor. These four products solved real small-apartment problems without needing a renovation or a bigger place.
+Small space organization isn't about owning less — it's about using the space you actually have (walls, under-bed gaps, corners) instead of just the floor. These five products solved real small-apartment problems without needing a renovation or a bigger place.
 
 ## 1. A slim rolling cart for the gap next to the fridge
 
@@ -26,6 +26,10 @@ When you can't fit another cabinet or shelving unit, you go up instead of out. A
 ## 4. A storage ottoman that pulls double duty
 
 In a small living room, furniture that only does one job is a waste of space. A [storage ottoman](https://www.amazon.com/dp/B07FCH521F?tag=thesortedho09-smallspace-20) works as extra seating, a footrest, and a lidded bin for blankets or remotes all at once — exactly the kind of two-birds-one-stone piece a small space needs.
+
+## 5. A tall narrow cabinet for the corner nobody uses
+
+Most small apartments have one awkward slim gap — beside a toilet, in a hallway, next to a dresser — too narrow for normal furniture. A [tall narrow storage cabinet](https://www.amazon.com/dp/B07RYVBFWJ?tag=thesortedho09-smallspace-20) fits an 11-15" footprint while still giving you 3 full shelves plus a door, rated 4.4 stars across 1,800+ reviews and an Amazon's Choice pick.
 
 ---
 
