@@ -1,0 +1,61 @@
+---
+---
+
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
+
+// The Sorted Home brand palette (from 40-Businesses/Pinterest-Affiliate-Marketing/Business.md)
+$sage: #9CAF88;
+$cream: #FAF7F0;
+$terracotta: #C1694F;
+$charcoal: #3A3A3A;
+
+body {
+  background-color: $cream;
+  color: $charcoal;
+}
+
+.site-header {
+  background-color: $sage;
+  border-top: none;
+  border-bottom: none;
+}
+
+.site-title,
+.site-title:visited {
+  color: $cream !important;
+  font-weight: 700;
+}
+
+.site-nav .page-link {
+  color: $cream;
+}
+
+a {
+  color: $terracotta;
+}
+
+a:hover {
+  color: darken($terracotta, 10%);
+}
+
+.post-title {
+  color: $charcoal;
+}
+
+.footer-heading,
+h1, h2, h3, h4 {
+  color: $charcoal;
+}
+
+.site-footer {
+  background-color: $sage;
+}
+
+.disclosure {
+  background: lighten($sage, 25%);
+  border-left: 4px solid $terracotta;
+  padding: 0.75em 1em;
+  font-size: 0.9em;
+  margin: 1.5em 0;
+}

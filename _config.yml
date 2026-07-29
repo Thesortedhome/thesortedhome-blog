@@ -1,0 +1,33 @@
+title: The Sorted Home
+tagline: Simple organization ideas for real homes
+description: >-
+  Storage solutions, small-space tips, and products that actually work —
+  simple organization ideas for real homes.
+url: "" # filled in once a custom domain or the github.io URL is confirmed live
+baseurl: ""
+
+theme: minima
+minima:
+  skin: custom
+  social_links:
+    pinterest: TheSortedHomeINC
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+permalink: /:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
