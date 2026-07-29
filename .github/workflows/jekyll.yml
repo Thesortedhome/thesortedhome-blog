@@ -4,6 +4,11 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
+  schedule:
+    # Daily rebuild shortly after midnight UTC so future-dated posts
+    # (Jekyll's future: false default excludes them) go live on their
+    # own date without needing a manual push that day.
+    - cron: "5 0 * * *"
 
 permissions:
   contents: read
