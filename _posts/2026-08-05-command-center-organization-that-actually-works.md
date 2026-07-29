@@ -3,7 +3,10 @@ title: "5 Command Center Organization Products That Actually Work"
 date: 2026-08-05
 categories: [Command Center]
 excerpt: "Real products for mail, keys, charging, and the family calendar — the stuff that keeps the entryway from becoming a dumping ground."
+image: /assets/images/command-center-hero.jpg
 ---
+
+<img src="{{ '/assets/images/command-center-hero.jpg' | relative_url }}" alt="A wall-mounted entryway organizer with hooks and shoe storage" style="width:100%;border-radius:8px;margin-bottom:24px;">
 
 <div class="disclosure" markdown="1">
 As an Amazon Associate, I earn from qualifying purchases. See our full [disclosure]({{ "/disclosure/" | relative_url }}).

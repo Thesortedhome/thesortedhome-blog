@@ -3,7 +3,10 @@ title: "5 Kitchen & Pantry Organization Products That Actually Work"
 date: 2026-07-31
 categories: [Kitchen]
 excerpt: "Real products for cabinets, pantry shelves, spices, and drawers — the stuff that keeps a kitchen organized between grocery runs, not just after a weekend reset."
+image: /assets/images/kitchen-hero.jpg
 ---
+
+<img src="{{ '/assets/images/kitchen-hero.jpg' | relative_url }}" alt="An organized kitchen pantry cabinet with labeled jars" style="width:100%;border-radius:8px;margin-bottom:24px;">
 
 <div class="disclosure" markdown="1">
 As an Amazon Associate, I earn from qualifying purchases. See our full [disclosure]({{ "/disclosure/" | relative_url }}).

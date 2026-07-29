@@ -3,7 +3,10 @@ title: "5 Closet Organization Products That Actually Work"
 date: 2026-07-30
 categories: [Closet]
 excerpt: "Real products for shelves, hangers, shoes, doors, and light — the stuff that keeps a closet organized after the first week, not just on install day."
+image: /assets/images/closet-hero.jpg
 ---
+
+<img src="{{ '/assets/images/closet-hero.jpg' | relative_url }}" alt="A well-organized walk-in closet with shoe shelves and drawers" style="width:100%;border-radius:8px;margin-bottom:24px;">
 
 <div class="disclosure" markdown="1">
 As an Amazon Associate, I earn from qualifying purchases. See our full [disclosure]({{ "/disclosure/" | relative_url }}).

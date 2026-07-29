@@ -3,7 +3,10 @@ title: "5 Budget-Friendly Organization Products That Actually Work"
 date: 2026-08-01
 categories: [Budget-Friendly]
 excerpt: "Real products under $30 — the stuff that gets a room organized without a container-store-sized budget."
+image: /assets/images/budget-hero.jpg
 ---
+
+<img src="{{ '/assets/images/budget-hero.jpg' | relative_url }}" alt="Labeled clear storage bins for small hardware and supplies" style="width:100%;border-radius:8px;margin-bottom:24px;">
 
 <div class="disclosure" markdown="1">
 As an Amazon Associate, I earn from qualifying purchases. See our full [disclosure]({{ "/disclosure/" | relative_url }}).

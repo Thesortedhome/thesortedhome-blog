@@ -3,7 +3,10 @@ title: "5 Small Space Organization Products That Actually Work"
 date: 2026-07-29
 categories: [Small Space]
 excerpt: "Real products for tiny apartments and cramped rooms — the stuff that adds storage without eating your floor space."
+image: /assets/images/small-space-hero.jpg
 ---
+
+<img src="{{ '/assets/images/small-space-hero.jpg' | relative_url }}" alt="A small, modern apartment living space with organized storage" style="width:100%;border-radius:8px;margin-bottom:24px;">
 
 <div class="disclosure" markdown="1">
 As an Amazon Associate, I earn from qualifying purchases. See our full [disclosure]({{ "/disclosure/" | relative_url }}).

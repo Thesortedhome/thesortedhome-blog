@@ -3,7 +3,10 @@ title: "5 Kids Room Organization Products That Actually Work"
 date: 2026-07-28
 categories: [Kids Room]
 excerpt: "Real products for stuffed animals, toys, and closets — the stuff that actually stays organized after the first week."
+image: /assets/images/kids-room-hero.jpg
 ---
+
+<img src="{{ '/assets/images/kids-room-hero.jpg' | relative_url }}" alt="A kids room with built-in storage and a bunk bed with shelving" style="width:100%;border-radius:8px;margin-bottom:24px;">
 
 <div class="disclosure" markdown="1">
 As an Amazon Associate, I earn from qualifying purchases. See our full [disclosure]({{ "/disclosure/" | relative_url }}).

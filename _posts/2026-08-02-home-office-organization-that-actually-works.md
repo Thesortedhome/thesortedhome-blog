@@ -3,7 +3,10 @@ title: "5 Home Office Organization Products That Actually Work"
 date: 2026-08-02
 categories: [Home Office]
 excerpt: "Real products for cables, paper, drawers, and posture — the stuff that keeps a desk usable through a full work day, not just tidy for a morning."
+image: /assets/images/office-hero.jpg
 ---
+
+<img src="{{ '/assets/images/office-hero.jpg' | relative_url }}" alt="A clean, organized home office desk setup" style="width:100%;border-radius:8px;margin-bottom:24px;">
 
 <div class="disclosure" markdown="1">
 As an Amazon Associate, I earn from qualifying purchases. See our full [disclosure]({{ "/disclosure/" | relative_url }}).

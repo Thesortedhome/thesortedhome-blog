@@ -3,7 +3,10 @@ title: "5 Bathroom Organization Products That Actually Work"
 date: 2026-08-03
 categories: [Bathroom]
 excerpt: "Real products for counters, under-sink cabinets, medicine storage, showers, and towels — the stuff that keeps a small bathroom usable every morning."
+image: /assets/images/bathroom-hero.jpg
 ---
+
+<img src="{{ '/assets/images/bathroom-hero.jpg' | relative_url }}" alt="An organized bathroom vanity with storage boxes and shelving" style="width:100%;border-radius:8px;margin-bottom:24px;">
 
 <div class="disclosure" markdown="1">
 As an Amazon Associate, I earn from qualifying purchases. See our full [disclosure]({{ "/disclosure/" | relative_url }}).
