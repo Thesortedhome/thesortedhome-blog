@@ -53,4 +53,4 @@ Apply the daily-use test — if you touch it most days, it can stay out in a con
 
 Start with whatever's currently loose and unstable on your counter — a wobbly bottle or a scattered utensil pile is usually the fastest, most visible win.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

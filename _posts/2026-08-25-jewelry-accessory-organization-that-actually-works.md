@@ -53,4 +53,4 @@ Keep them separated and off any surface where they'd rub against keys or other h
 
 Start with whichever category is causing the most daily frustration — for most people, that's tangled necklaces, and it's also the cheapest fix on this list.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

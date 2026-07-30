@@ -1,6 +1,6 @@
 # The Sorted Home — Blog
 
-Blog companion to [The Sorted Home](https://www.pinterest.com/TheSortedHomeINC/) Pinterest account — each post links several products at once, and gets pinned as multiple pin designs pointing back at it.
+Blog companion to [The Sorted Home](https://www.pinterest.com/SortedHomeStudio/) Pinterest account — each post links several products at once, and gets pinned as multiple pin designs pointing back at it.
 
 Static site built with Jekyll, auto-deployed to GitHub Pages via GitHub Actions on every push to `main`.
 

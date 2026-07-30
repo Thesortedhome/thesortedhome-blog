@@ -53,4 +53,4 @@ A zippered, covered shoe organizer beats an open bin — the covered design keep
 
 Start with whatever's currently piled in a closet or on the floor with nowhere else to go — under-bed storage works best solving a real, existing overflow problem, not as storage for its own sake.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

@@ -53,4 +53,4 @@ Shelf dividers — they contain each stack so pulling one sweater from the middl
 
 Start by separating what's actually in rotation from what's not — that single sort determines whether a sweater needs a divided shelf or a compression bag.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

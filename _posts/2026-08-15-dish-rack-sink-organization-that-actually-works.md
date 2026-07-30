@@ -53,4 +53,4 @@ Quality stainless steel racks resist rust well under normal use, but check for "
 
 Start with whichever sink-area habit is causing the most daily friction — for most kitchens, that's either a permanently cluttered counter or a sponge that never quite dries.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

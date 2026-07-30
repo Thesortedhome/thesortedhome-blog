@@ -59,4 +59,4 @@ Not reliably — most standard adhesives lose their grip in freezer temperatures
 
 None of these require emptying and re-organizing the whole freezer at once — start with whichever one matches your biggest current headache and build from there.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

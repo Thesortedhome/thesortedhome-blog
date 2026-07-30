@@ -53,4 +53,4 @@ Clear bins, generally — a closet shelf holding loose folded items looks organi
 
 Start with the hangers if you haven't already swapped them — it's the fastest, cheapest fix, and it changes how the whole closet feels immediately.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

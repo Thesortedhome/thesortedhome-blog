@@ -59,4 +59,4 @@ Stackability and a genuine airtight seal matter more than capacity for meal prep
 
 Start with the lids — it's the single most common source of container-cabinet chaos, and the cheapest fix on this list.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

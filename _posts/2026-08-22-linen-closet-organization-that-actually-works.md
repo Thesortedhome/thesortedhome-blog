@@ -53,4 +53,4 @@ No — reserve bins for items that don't stack cleanly (washcloths, small blanke
 
 Start with dividers on whichever shelf collapses most often — that's the highest-friction spot, and the cheapest fix on this list.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

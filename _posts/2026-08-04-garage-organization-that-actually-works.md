@@ -65,4 +65,4 @@ Pegboard is more flexible (rearrange hooks anytime) and cheaper per square foot;
 
 Start with whatever's taking up the most floor space right now — for most garages, that's ladders, hoses, or bikes.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

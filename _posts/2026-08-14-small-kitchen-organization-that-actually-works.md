@@ -53,4 +53,4 @@ Yes, specifically because small kitchen cabinets tend to have unused height — 
 
 Start with whichever zone is currently the tightest squeeze during actual daily cooking — that's the real-world test, not how the kitchen looks when it's empty.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

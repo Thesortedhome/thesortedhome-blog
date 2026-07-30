@@ -53,4 +53,4 @@ Yes, more than almost any other product here — an insert lets you move your ev
 
 Start with whichever bags you use most often — those are the ones that benefit most from being visible and easy to grab without disturbing the rest of the collection.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

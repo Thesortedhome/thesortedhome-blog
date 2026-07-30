@@ -53,4 +53,4 @@ Separately from bulky bakeware and, ideally, separately from everyday cooking sp
 
 Start with whichever items you're currently unstacking the most to reach something at the bottom — that's the real cost this cabinet is charging you daily.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

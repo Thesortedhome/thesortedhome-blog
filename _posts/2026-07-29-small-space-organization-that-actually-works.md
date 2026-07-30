@@ -65,4 +65,4 @@ Check your lease first — most leases allow small anchor holes (they're easy to
 
 None of these require giving up square footage you don't have — just using the space you already own more deliberately. Start with whichever one matches your loudest current headache.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

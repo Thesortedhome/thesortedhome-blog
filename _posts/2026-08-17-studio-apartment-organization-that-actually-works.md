@@ -53,4 +53,4 @@ Yes — damage-free adhesive hooks rated for real weight (5 lbs per hook on the 
 
 Start with whichever single piece of furniture in your studio is currently doing only one job — that's the fastest upgrade to real usable space.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

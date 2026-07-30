@@ -59,4 +59,4 @@ Most damage-free adhesive hooks hold up fine to typical under-sink moisture, but
 
 Start with whichever zone is currently the biggest mess — for most under-sink cabinets, that's the front pile of loose bottles.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

@@ -65,4 +65,4 @@ Put it directly in the one path everyone already walks through daily, and keep e
 
 A command center works best built up piece by piece — start with whichever pile (mail, coats, or phones) is currently the biggest mess by the door.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

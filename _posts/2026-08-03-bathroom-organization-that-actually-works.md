@@ -65,4 +65,4 @@ Assign every item a specific tray or zone in a countertop organizer rather than 
 
 In a small bathroom, fixing the under-sink cabinet or the counter clutter usually has the biggest visible impact for the least effort.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

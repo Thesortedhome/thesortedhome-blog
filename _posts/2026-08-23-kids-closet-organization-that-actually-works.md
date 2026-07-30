@@ -53,4 +53,4 @@ Open, labeled bins generally work better for younger kids specifically — a clo
 
 Start by getting one full rod down to a reachable height — that single change does more for a kid's independence than any amount of additional bins or shelving.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

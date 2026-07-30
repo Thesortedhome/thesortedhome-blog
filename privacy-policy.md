@@ -14,4 +14,4 @@ This site is a simple content site with no comment system, no account creation, 
 
 **Cookies:** Amazon and any embedded third-party services (analytics, if enabled) may set their own cookies once you interact with their content. We don't set first-party tracking cookies ourselves.
 
-Questions about this policy can be directed via our [Pinterest profile](https://www.pinterest.com/TheSortedHomeINC/).
+Questions about this policy can be directed via our [Pinterest profile](https://www.pinterest.com/SortedHomeStudio/).

@@ -53,4 +53,4 @@ In practice, yes — a walk-in typically has more open shelves than a standard c
 
 Start by mapping out real zones for your walk-in before buying anything — the space advantage only pays off with a plan behind it.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

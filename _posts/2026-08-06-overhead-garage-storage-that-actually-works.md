@@ -59,4 +59,4 @@ A rack is fixed — good for things you store long-term and rarely touch. A hois
 
 Overhead storage is the fastest way to add real garage capacity without giving up a single square foot of floor or wall space. Start with whichever one matches how heavy and how often you need to access what you're storing.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

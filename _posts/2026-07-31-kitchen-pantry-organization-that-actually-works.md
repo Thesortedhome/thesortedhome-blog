@@ -65,4 +65,4 @@ Only if your cabinet width is non-standard or you're not sure yet how many jars 
 
 Pick the one spot in your kitchen that annoys you daily — that's the highest-leverage place to start, not the whole kitchen at once.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

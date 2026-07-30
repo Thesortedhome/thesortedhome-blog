@@ -59,4 +59,4 @@ Yes, if you load consistently from the back — a gravity-fed or slide-style can
 
 None of these require a full fridge clean-out to install — add one, use it for a week, and add the next once the first one's earned its spot.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

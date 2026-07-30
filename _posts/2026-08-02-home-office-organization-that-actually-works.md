@@ -65,4 +65,4 @@ Go vertical and off the desk entirely where you can — a wall-mounted paper tra
 
 Start with whichever one is actively bothering you today — cable chaos and drawer clutter are usually the fastest wins.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

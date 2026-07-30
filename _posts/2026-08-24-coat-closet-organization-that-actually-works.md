@@ -53,4 +53,4 @@ Only if there's genuine spare capacity — otherwise a garment bag lets you move
 
 Start with whichever daily habit is currently failing — a coat on a chair or shoes on the floor both point to the same fix: making the correct spot faster to use than the wrong one.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

@@ -65,4 +65,4 @@ Yes — stick-on motion sensor LED lights are magnetic or adhesive-mounted, run 
 
 Start with whichever one is causing the most daily friction — for most closets, that's either the hanger bulk or the shoe pile.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

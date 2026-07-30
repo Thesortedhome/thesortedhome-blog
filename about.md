@@ -8,4 +8,4 @@ The Sorted Home is a small collection of practical, no-nonsense organization ide
 
 We're not here to make you feel bad about clutter. We're here with an easy win: a product that actually works, and a couple of ways to use it.
 
-Find us on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/) for daily ideas.
+Find us on [Pinterest](https://www.pinterest.com/SortedHomeStudio/) for daily ideas.

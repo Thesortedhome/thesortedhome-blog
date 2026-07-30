@@ -59,4 +59,4 @@ Existing counter space works fine as long as everything has an assigned, contain
 
 Start with whichever category is currently spilling across the most counter space — for most home coffee stations, that's the loose pods.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

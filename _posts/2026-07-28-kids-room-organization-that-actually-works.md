@@ -65,4 +65,4 @@ Look at the weight rating and review count before assuming — the option above 
 
 None of these require a weekend project or a trip to a container store — just one product solving one specific problem. Start with whichever one matches your loudest current headache.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

@@ -65,4 +65,4 @@ It varies a lot by product — favor ones with high review counts (thousands, no
 
 None of these need a big budget or a weekend project — just the right $15-30 product matched to the actual clutter spot bothering you most.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

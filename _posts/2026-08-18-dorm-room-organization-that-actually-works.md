@@ -53,4 +53,4 @@ No — the best dorm storage products (like stackable clear bins) work for both.
 
 Start with whatever's currently living in a suitcase weeks after move-in — that's the real sign a system, not just unpacking, is what's actually needed.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*

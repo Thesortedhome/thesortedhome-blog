@@ -10,7 +10,7 @@ theme: minima
 minima:
   skin: classic
   social_links:
-    pinterest: TheSortedHomeINC
+    pinterest: SortedHomeStudio
 
 markdown: kramdown
 plugins:

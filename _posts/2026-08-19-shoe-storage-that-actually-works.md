@@ -53,4 +53,4 @@ Check the weight rating first — the option above holds up to 40 lbs total, whi
 
 Start with whichever spot — floor, door, or a narrow gap — is currently collecting the biggest shoe pile.
 
-*More organization ideas on [Pinterest](https://www.pinterest.com/TheSortedHomeINC/).*
+*More organization ideas on [Pinterest](https://www.pinterest.com/SortedHomeStudio/).*
