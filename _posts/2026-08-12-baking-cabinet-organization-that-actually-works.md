@@ -30,7 +30,7 @@ If a full pull-out isn't in the budget, a smaller stationary option gets most of
 
 ## 3. An expandable rack for spices and extracts
 
-Baking-specific extras — extracts, food coloring, small spice jars — get lost standing loose next to bulky bakeware. An [expandable 3-tier spice rack](https://www.amazon.com/dp/B01DQ23SWK?tag=thesortedho09-kitchen-20) tiers small bottles so labels stay visible, and expands to fit different drawer or shelf widths.
+Baking-specific extras — extracts, food coloring, small spice jars — get lost standing loose next to bulky bakeware. An [expandable 3-tier spice rack](https://www.amazon.com/dp/B07DQN3YTP?tag=thesortedho09-kitchen-20) tiers small bottles so labels stay visible, and expands to fit different drawer or shelf widths.
 
 **Tip:** keep this separate from your everyday cooking spice rack if baking is a frequent enough habit — a dedicated baking-extras rack means you're not digging through cumin and chili powder to find vanilla extract mid-recipe.
 

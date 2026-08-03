@@ -24,7 +24,7 @@ Loose pens roll around and end up scattered across the desk within a day of bein
 
 ## 2. A charging station so cables aren't just tangled on the desktop
 
-Phone and device chargers left loose on a desk tangle together and end up as one of the messiest-looking parts of an otherwise tidy setup. A [multi-device charging station and cable organizer](https://www.amazon.com/dp/B01IO3KY46?tag=thesortedho09-office-20) holds laptops, tablets, and phones upright in labeled slots while keeping their cords contained — rated 4.4 stars across 1,650+ reviews.
+Phone and device chargers left loose on a desk tangle together and end up as one of the messiest-looking parts of an otherwise tidy setup. A [multi-device charging station and cable organizer](https://www.amazon.com/dp/B009CFMO0S?tag=thesortedho09-office-20) holds laptops, tablets, and phones upright in labeled slots while keeping their cords contained — rated 4.4 stars across 1,650+ reviews.
 
 **Where it works best:** a fixed corner of the desk near an outlet — treat it as a permanent charging zone so devices land in the same spot every time instead of wherever there's room.
 

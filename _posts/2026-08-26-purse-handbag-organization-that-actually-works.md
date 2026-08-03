@@ -30,7 +30,7 @@ Structured handbags with a rigid shape hold up better hanging than stacked flat,
 
 ## 3. Purse inserts for shape and internal organization
 
-Even a well-stored bag turns into a loose jumble inside once you're actually using it — keys, wallet, and phone all sliding around loose. A [felt purse organizer insert with multiple pockets](https://www.amazon.com/dp/B074YHBG46?tag=thesortedho09-closet-20) keeps the inside of each bag structured, and doubles as a way to swap contents between bags quickly without repacking from scratch — rated 4.6 stars across 12,000+ reviews.
+Even a well-stored bag turns into a loose jumble inside once you're actually using it — keys, wallet, and phone all sliding around loose. A [felt purse organizer insert with multiple pockets](https://www.amazon.com/dp/B074YGSL4Y?tag=thesortedho09-closet-20) keeps the inside of each bag structured, and doubles as a way to swap contents between bags quickly without repacking from scratch — rated 4.6 stars across 12,000+ reviews.
 
 **Tip:** buy one insert per frequently-used bag rather than one that you move between bags — swapping the whole insert (with contents already in their pockets) between bags is much faster than moving items one at a time.
 

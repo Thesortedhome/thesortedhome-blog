@@ -24,7 +24,7 @@ You don't need to replace your desk to get a standing option — a converter sit
 
 ## 2. An anti-fatigue mat so standing doesn't wreck your feet
 
-Standing on a hard floor for hours is what actually kills most people's standing-desk habit, not the desk itself. The [Sky Solutions Anti-Fatigue Mat](https://www.amazon.com/dp/B07D8435NS?tag=thesortedho09-office-20) is a 3/4"-thick cushioned foam mat rated 4.5 stars across 37,500+ reviews — one of the best-selling mats in the category.
+Standing on a hard floor for hours is what actually kills most people's standing-desk habit, not the desk itself. The [Sky Solutions Anti-Fatigue Mat](https://www.amazon.com/dp/B01HFKUJEY?tag=thesortedho09-office-20) is a 3/4"-thick cushioned foam mat rated 4.5 stars across 37,500+ reviews — one of the best-selling mats in the category.
 
 **Where it works best:** directly in front of the spot where you naturally stand at the desk — if you have to hunt for the mat's exact position every time, you'll eventually stop bothering to step onto it.
 
